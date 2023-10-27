@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contact & Support</title>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    </head>
+    <body style="text-align: center;">
+		<p>- <a href="./"> Home Page</a></p>
+        <div id="welcome">
+            <h1>a</h1>
+            <p></p>
+        </div>
+		<div id="intro">
+            <h2>b</h2>
+            <p>abc</p>
+		</div>
+    </body>
+</html>
